@@ -1,0 +1,5 @@
+flask
+wtforms
+flask_mysqldb
+passlib
+flask-Script
